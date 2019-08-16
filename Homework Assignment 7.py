@@ -16,8 +16,8 @@ would like to enter.....
 rangeOfDirectory2 = 0
 
 """
-this code is used to create another variable so that when
-this and the above variable is equal, we can brewk the loopm
+This code is used to create another variable so that when
+this and the above variable is equal, we can brewk the loop
 
 """
 if rangeOfDirectory2 != rangeOfDirectory:
@@ -31,7 +31,7 @@ if rangeOfDirectory2 != rangeOfDirectory:
 			for k,v in DirectoryMusic.items():
 				print(str(k) + '- ' + str(v))
 				"""
-				print the key input and value simultaneously,
+				To print the key input and value simultaneously,
 				side by side, the above code has been used.....	
 
 				"""
